@@ -1,4 +1,4 @@
-baseURL = "https://decentlab.github.io/"
+baseURL = "https://decent-lab.github.io/"
 theme = "LoveIt"
 themesDir = "themes"
 title = "Decentralization Lab"
@@ -21,7 +21,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 
 [params]
   defaultTheme = "auto"
-  gitRepo = "https://github.com/decentlab"
+  gitRepo = "https://github.com/decent-lab/"
   fingerprint = ""
   dateFormat = "2006-01-02"
   title = "Decentralization Lab"
@@ -81,7 +81,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       enable = false
       paginate = 6
   [params.social]
-    GitHub = "decentlab"
+    GitHub = "decent-lab"
     Youtube = "@decentlab"
     Email = "decentlab@gmail.com"
     RSS = true
