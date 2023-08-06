@@ -1,0 +1,86 @@
+github:
+  Weight: 1
+  Prefix: https://github.com/
+  Title: GitHub
+  Icon:
+    Class: fab fa-github fa-fw
+
+linkedin:
+  Weight: 2
+  Prefix: https://linkedin.com/in/
+  Title: LinkedIn
+  Icon:
+    Class: fab fa-linkedin fa-fw
+
+stackoverflow:
+  Weight: 3
+  Prefix: https://stackoverflow.com/users/
+  Title: Stack Overflow
+  Icon:
+    Class: fab fa-stack-overflow fa-fw
+
+codewars:
+  Weight: 4
+  Prefix: https://codewars.com/users/
+  Title: Codewars
+  Newtab: true
+  Icon:
+    Simpleicons: codewars
+
+youtube:
+  Weight: 5
+  Prefix: https://youtube.com/
+  Title: Youtube
+  Newtab: true
+  Icon:
+    Class: fab fa-youtube fa-fw
+
+medium:
+  Weight: 6
+  Prefix: https://medium.com/
+  Title: Medium
+  Icon:
+    Class: fab fa-medium fa-fw
+
+skype:
+  Weight: 100
+  Template: "skype:"
+  Title: Skype
+  Icon:
+    Class: fab fa-skype fa-fw
+
+whatsapp:
+  Weight: 101
+  Prefix: https://wa.me/
+  Title: WhatsApp
+  Icon:
+    Class: fab fa-whatsapp fa-fw
+
+telegram:
+  Weight: 102
+  Prefix: https://t.me/
+  Title: Telegram
+  Icon:
+    Class: fab fa-telegram-plane fa-fw
+
+phone:
+  Weight: 150
+  Template: tel:%v
+  Title: Phone
+  Icon:
+    Class: fas fa-phone fa-fw
+
+email:
+  Weight: 151
+  Template: mailto:%v
+  Title: Email
+  Icon:
+    Class: far fa-envelope fa-fw
+
+rss:
+  Weight: 200
+  Url: /index.xml
+  Title: RSS
+  Newtab: true
+  Icon:
+    Class: fas fa-rss fa-fw
